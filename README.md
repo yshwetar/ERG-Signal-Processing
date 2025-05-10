@@ -94,10 +94,6 @@ As demonstrated in the manuscript, this toolkit can be used to analyze:
   - DA 3.0 cd·s/m²
   - DA 0.01 cd·s/m²
 
-- **Normal vs. Pathological Comparison**: 
-  - The toolkit is particularly useful for comparing normal ERGs with those from patients with conditions like congenital stationary night blindness (CSNB)
-  - Wavelet methods can reveal subtle differences in time-frequency characteristics that may not be apparent in standard time-domain analysis
-
 ---
 
 ## Citation
