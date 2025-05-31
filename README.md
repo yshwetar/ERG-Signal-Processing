@@ -99,7 +99,7 @@ As demonstrated in the manuscript, this toolkit can be used to analyze:
 ## Citation
 
 If you use this toolkit in your research, please cite:
-- **Paper**: Shwetar Y, Lalush D, McAnany J, Jeffrey B, Haendel M. "A Practical Introduction to Wavelet Analysis in Electroretinography" (Add journal and DOI once published)
+- **Paper**: Shwetar Y, Lalush D, McAnany J, Jeffrey B, Haendel M. "A Practical Introduction to Wavelet Analysis in Electroretinography"
 - **Code**: GitHub repository: https://github.com/yshwetar/ERG-Wavelet-Analysis
 
 ---
